@@ -1,6 +1,6 @@
-# Aplicativo Guia de Número Emergencias em Flutter
+# Aplicativo Guia de Número Emergências em Flutter
 
-Aplicativo desenvolvido na linguagem flutter como projeto da disciplina Optativo II
+Aplicativo desenvolvido na linguagem flutter como projeto da disciplina Optativa II
 Cursada no Instituto Federal de Brasília - Campus Tagautinga
 E ministrada pelo Professro José Gonçalo dos Santos
 
